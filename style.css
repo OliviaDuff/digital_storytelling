@@ -1,0 +1,18 @@
+h1 {
+color:blue;
+font-family:helvetica; background-color: orange; border: 7px dotted yellow;
+padding:50px;
+}
+
+h3 {
+color:purple;
+margin-left: 100px
+}
+
+body {
+background-color:pink;
+}
+
+img {
+border: 5px solid fuchsia; width: 25%; height: 25%; margin-left: 100px
+}
